@@ -23,6 +23,10 @@ git commit -m "Описание изменений"
 ```bash
 git log
 ```
+Просмотр истории в одну строчку 
+```amplicodejpql
+git log --oneline
+```
 ### 6. Отправка изменений на удалённый сервер (GitHub)
 ```bash
 git push origin <ветка> 
